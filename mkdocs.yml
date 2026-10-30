@@ -1,0 +1,8 @@
+site_name: RegexTester.dev Docs
+site_description: Guides for regex testing across 8 engines (PCRE2, RE2, JavaScript, Python, Go, Java, .NET, Rust) with RegexTester.dev
+site_url: https://regextester.dev/
+nav:
+  - Home: index.md
+  - Flavor Matrix: flavor-matrix.md
+  - Testing Workflow: workflow.md
+  - ReDoS Safety: redos.md
